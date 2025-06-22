@@ -1,2 +1,2 @@
 # geo
-linux kernel configuration for elementOS
+linux kernel configuration for lumina
